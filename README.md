@@ -10,13 +10,6 @@ sh ./run_sdd_mapping.sh
 
 ## Setup
 
-### Prerequisites
-
-- Python 3.x
-- [SpaCy](https://spacy.io/)
-- [Streamlit](https://streamlit.io/)
-- [Ollama](https://ollama.com/)
-
 ### Installation
 
 1. **Clone the repository:**
